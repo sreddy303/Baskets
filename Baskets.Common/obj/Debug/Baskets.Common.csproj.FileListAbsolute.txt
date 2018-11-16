@@ -1,0 +1,4 @@
+D:\Work\Saga\Baskets\Baskets.Common\bin\Debug\Baskets.Common.dll
+D:\Work\Saga\Baskets\Baskets.Common\bin\Debug\Baskets.Common.pdb
+D:\Work\Saga\Baskets\Baskets.Common\obj\Debug\Baskets.Common.dll
+D:\Work\Saga\Baskets\Baskets.Common\obj\Debug\Baskets.Common.pdb

@@ -1,0 +1,7 @@
+D:\Work\Saga\Baskets\Baskets.Repository\bin\Debug\Baskets.Repository.dll
+D:\Work\Saga\Baskets\Baskets.Repository\bin\Debug\Baskets.Repository.pdb
+D:\Work\Saga\Baskets\Baskets.Repository\obj\Debug\Baskets.Repository.dll
+D:\Work\Saga\Baskets\Baskets.Repository\obj\Debug\Baskets.Repository.pdb
+D:\Work\Saga\Baskets\Baskets.Repository\bin\Debug\Baskets.Common.dll
+D:\Work\Saga\Baskets\Baskets.Repository\bin\Debug\Baskets.Common.pdb
+D:\Work\Saga\Baskets\Baskets.Repository\obj\Debug\Baskets.Repository.csprojResolveAssemblyReference.cache
